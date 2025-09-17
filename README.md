@@ -1,6 +1,4 @@
-#Airplane Price Prediction - Data Engineering Pipeline
-
-A comprehensive data engineering pipeline for airplane price prediction with advanced data quality validation and monitoring.
+Airplane Price Prediction
 
 ### Core Components
 
